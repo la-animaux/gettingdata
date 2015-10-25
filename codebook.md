@@ -9,6 +9,7 @@ For each unique combination of SubjectNumber and ActivityType, the code outputs 
 
 <h1> Variables</h1>
 Each variable name is preceded by a number, that indicates its reference number from the original, raw dataset
+
 "1 Body Acceleration Mean X"                                   
 "2 Body Acceleration Mean Y"                                   
 "3 Body Acceleration Mean Z"                                   
@@ -82,3 +83,12 @@ Each variable name is preceded by a number, that indicates its reference number 
 "559 Average Gravity for X Variables"                          
 "560 Average Gravity for Y Variables"                          
 "561 Average Gravity for Z Variables"  
+
+
+<h1>Acivity Labels</h1>
+1.  "Walking"
+2. "Walking_Upstairs"
+3. "Walking_Downstairs"
+4. "Sitting"
+5. "Standing"
+6. "Laying"
