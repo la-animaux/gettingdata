@@ -1,13 +1,13 @@
 
 This is a codebook that describes the analysis and variables for the Getting and Cleaning Data course project. 
 
-<h1> Identifiers
+<h1> Identifiers </h1>
 1. SubjectNumber : the subject number for each participant in the dataset
 2. ActivityType : the type of activity the subject performed
 
 For each unique combination of SubjectNumber and ActivityType, the code outputs a mean for each variable. 
 
-<h1> Variables
+<h1> Variables</h1>
 Each variable name is preceded by a number, that indicates its reference number from the original, raw dataset
 "1 Body Acceleration Mean X"                                   
 "2 Body Acceleration Mean Y"                                   
