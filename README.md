@@ -9,6 +9,7 @@ There are three parts of this submission:
 
 The code completes the course project for Getting and Cleaning Data
 It does five steps:
+
     1. Merges the training and the test sets to create one data set.
     
     2. Extracts only the measurements on the mean and standard deviation for each measurement. 
