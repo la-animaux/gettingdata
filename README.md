@@ -21,3 +21,12 @@ It does five steps:
     5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and  each subject.
 
 The end result is a tidy dataset named FinalData. 
+
+<b>How were the variables selected for the final tidy dataset? </b>
+Included variables were selected if the variable named contained "mean" or "std-dev". Variables with "meanFreq" in the name were NOT included. 
+
+<b>What type of variables are these?</b>
+The SubjectNumber and ActivityType variables are categorical and reference the subject number and type of activity performed, respectively. All other variables are numeric means. 
+
+<b>What was the original dataset?</b>
+The original, raw dataset was compiled by the UCI Machine Learning Repository. More information about these data can be found at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
